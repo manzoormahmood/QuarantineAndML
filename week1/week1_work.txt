@@ -1,6 +1,6 @@
-Day1: Stochastic gradient descent implementation
-Day2: Normalization the dataset.(Normalization before or after the test_train split). Normalization(Min-Max Scaler) and Standardization
-Day3:
+Day1: Setting up Github and Python libraries.
+Day2: Stochastic gradient descent implementation
+Day3: Normalization the dataset.(Normalization before or after the test_train split). Normalization(Min-Max Scaler) and Standardization
 Day4:
 Day5:
 Day6:
