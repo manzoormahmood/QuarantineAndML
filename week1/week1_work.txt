@@ -1,5 +1,5 @@
 Day1: Stochastic gradient descent implementation
-Day2:
+Day2: Normalization the dataset.(Normalization before or after the test_train split). Normalization(Min-Max Scaler) and Standardization
 Day3:
 Day4:
 Day5:
