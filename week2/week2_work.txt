@@ -1,4 +1,4 @@
-Day8:
+Day8: Catboost model
 Day9:
 Day10:
 Day11:
