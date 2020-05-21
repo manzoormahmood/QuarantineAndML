@@ -1,5 +1,5 @@
 Day8: Catboost model
-Day9:
+Day9: Classification model
 Day10:
 Day11:
 Day12:
