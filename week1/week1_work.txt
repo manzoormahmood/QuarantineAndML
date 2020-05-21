@@ -4,4 +4,4 @@ Day3: Normalization the dataset.(Normalization before or after the test_train sp
 Day4: Ensemble Learning, xgboost
 Day5: Hackathon1 xgboost model
 Day6: LGBM,  Hackathon1 lgbm model
-Day7: Hyper-parameter optimization
+Day7: Hyper-parameter optimization.
