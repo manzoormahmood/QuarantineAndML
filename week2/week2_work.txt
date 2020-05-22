@@ -1,6 +1,6 @@
 Day8: Catboost model
 Day9: Classification model
-Day10:
+Day10: Model Validation Techniques
 Day11:
 Day12:
 Day13:
