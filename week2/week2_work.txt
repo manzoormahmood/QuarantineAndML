@@ -1,7 +1,7 @@
 Day8: Catboost model
 Day9: Classification model
 Day10: Model Validation Techniques
-Day11:
-Day12:
+Day11: L1 and L2 regilarization techniques- Used to deal with over-fitting by introducing penalty. L1-lasso, L2-ridge
+Day12: 
 Day13:
 Day14:
