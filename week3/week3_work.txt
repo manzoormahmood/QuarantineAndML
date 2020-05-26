@@ -1,6 +1,6 @@
 NLP WEEK
 
-Day15: Web scrapping
+Day15: Web scrapping.
 Day16:
 Day17:
 Day18:
