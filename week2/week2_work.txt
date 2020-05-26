@@ -3,5 +3,5 @@ Day9: Classification model
 Day10: Model Validation Techniques
 Day11: L1 and L2 regilarization techniques- Used to deal with over-fitting by introducing penalty. L1-lasso, L2-ridge
 Day12: Handling missing values
-Day13:
-Day14:
+Day13: Macro, Weighted and micro F1 score
+Day14: Eid celebration
