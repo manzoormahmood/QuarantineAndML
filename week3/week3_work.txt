@@ -1,7 +1,7 @@
 NLP WEEK
 
 Day15: Web scrapping.
-Day16:
+Day16: Pre-processing-Removing special char, Expanding contractions
 Day17:
 Day18:
 Day19:
