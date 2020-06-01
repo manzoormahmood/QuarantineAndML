@@ -5,5 +5,5 @@ Day16: Pre-processing-Removing special char, Expanding contractions
 Day17: Stemming and Lemmatization
 Day18: Stop words
 Day19: Part of Speech (POS).
-Day20: 
+Day20: PCA- Dimentionality Reduction
 Day21:
