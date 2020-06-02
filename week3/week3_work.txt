@@ -6,4 +6,4 @@ Day17: Stemming and Lemmatization
 Day18: Stop words
 Day19: Part of Speech (POS).
 Day20: PCA- Dimentionality Reduction
-Day21:
+Day21: Gini impurity
