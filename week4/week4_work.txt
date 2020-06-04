@@ -1,7 +1,7 @@
 NLP WEEK
 
 Day22: Name Entity Recognition (NER)
-Day23: 
+Day23: Word Embedding: Representing word in vector format. Two type frequency and prediction based. Frequency type includes Count vector, TF-IDF, etc. Prediction based include Continous bag of words (CBOW), skip-gram.
 Day24: 
 Day25: 
 Day26: 
