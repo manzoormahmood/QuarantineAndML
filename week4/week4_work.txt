@@ -5,5 +5,5 @@ Day23: Word Embedding: Representing word in vector format. Two type frequency an
 Day24: TF-IDF
 Day25: Softmax 
 Day26: Chatbot Day1
-Day27: Recurrent Neural Network (RNN)
+Day27: Sentiment analysis using TextBlob
 Day28: 
