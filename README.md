@@ -1,5 +1,5 @@
 # QuarantineAndML
-Aim of this repository is to learn about machine learning. This is created during Coronavirus Quaratine time. Target is to do learn something daily and commit it in this repository.
+This repository was updated continously for a period of 31 days. With the aim to learn about machine learning. This is created during Coronavirus Quaratine time. Target is to do learn something daily and commit it in this repository.
 
 
 Day1: Setting up Github and Python libraries.
@@ -28,7 +28,7 @@ Day12: Handling missing values
 
 Day13: Macro, Weighted and micro F1 score
 
-Day14: Eid celebration
+Day14: Structure of uber, netflix
 
 Day15: Web scrapping.
 
