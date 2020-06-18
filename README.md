@@ -62,4 +62,4 @@ Day29: Cosine similarity
 
 Day30: Spell checker
 
-Day31: Chatbot day2 (code coming soon...)
+Day31: Chatbot day2 (https://github.com/manzoormahmood/Tourist-Guide-Chatbot)
